@@ -30,7 +30,6 @@ requests==2.32.5
 scikit-learn==1.8.0
 scipy==1.17.1
 six==1.17.0
-tensorflow
 threadpoolctl==3.6.0
 tzdata==2025.3
 uritemplate==3.0.1
