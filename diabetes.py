@@ -48,7 +48,7 @@ def lab():
         print(X_test)
 
         # get the data for the diabetes data.
-        data = pd.read_csv('./diabetes.csv', sep=',')
+        data = pd.read_csv('diabetes.csv', sep=',')
 
         # extract the X and y from the imported data
         X = data.values[:, 0:8]
